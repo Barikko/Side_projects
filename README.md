@@ -6,7 +6,7 @@
 
 **Библиотеки**: pandas, numpy, matplotlib.pyplot, graph_objects из plotly, seaborn, Image из PIL, warnings
 
-## [Карьера блоггера с опорой на данные](https://github.com/Barikko/Side_projects/tree/main/Insta)
+## [Карьера блоггера с опорой на данные](https://github.com/Barikko/Side_projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%BE%D0%B2%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0)
 
 **Описание проекта:**
 
